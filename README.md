@@ -1,5 +1,3 @@
-# Florasyo
-About flowers
 <!DOCTYPE html>
 <html lang="en">
 <head>
