@@ -1,1 +1,1 @@
-https://username.github.io/simple-website-template
+https://Johniel-afk.github.io/simple-website-template
